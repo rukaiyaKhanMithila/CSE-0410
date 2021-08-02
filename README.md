@@ -1,2 +1,2 @@
 # CSE-0410
-This is Parallel Lab Repository
+Paralle and Prossing Thesis works
